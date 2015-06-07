@@ -1,0 +1,82 @@
+html, body, h1, h2, h3, h4, ul, ol, li, p, a {
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
+
+body {
+	background-color:#fffafa
+}
+section {
+	background-color:#fefefe;
+	margin-left:100px;
+	margin-right:100px;
+	padding-left:30px;
+	padding-right:30px;
+}
+.header {
+	text-align: center;
+	margin-bottom:15px;
+	padding-top:10px;
+
+}
+.header h1{
+	font-size: 24px;
+
+	
+}
+.header li{
+	display:inline;
+}
+a:hover{
+	text-decoration: none;
+	color:#da2c43;
+}
+
+h2 {
+	font-size: 20px;
+	border-bottom: 1px solid #aaaaaa;
+	padding-bottom:4px;
+	margin-bottom: 8px;
+}
+
+h3 {
+	font-size: 18px;
+	padding-bottom: 4px;
+}
+
+ul {
+	margin-left:50px;
+	padding-top:4px;
+}
+
+.profile {
+	margin-bottom:15px;
+}
+.education {
+	margin-bottom:15px;
+}
+.education p {
+	padding-bottom:6px;
+}
+.experience {
+	margin-bottom:15px;
+}
+
+.drc{
+	margin-bottom:8px;
+}
+.epicor {
+	margin-bottom: 8px;
+}
+.cardinal {
+	margin-bottom: 8px;
+}
+
+.accomplishments{
+	margin-bottom:15px;
+}
+.skills-act{
+	margin-bottom:15px;
+}
+
